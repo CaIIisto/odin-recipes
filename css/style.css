@@ -1,0 +1,70 @@
+a{
+    color: #383838;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover{
+    color: #636362;
+    text-decoration: underline;
+}
+a:focus{
+    color: #636362;
+    text-decoration: underline;
+}
+a:visited{
+    color:#d49802;
+}
+body {
+    background-image: url(../images/floor-tile.png);
+    text-align:center;
+    font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+    line-height: 1.25;
+    color: #383838;
+    margin-left:20%;
+    margin-right:20%;
+}
+body h2{
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+}
+
+    .pg-title {
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+}
+
+.ing {
+    margin:auto;
+    width: 50%;
+    background-image:url(../images/green_cup.webp);
+    padding: 5px 10px 5px 10px;
+    text-align:center;
+}
+
+.ing h2{
+    text-align:center;
+    margin-top: 5px; 
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;   
+}
+.ing ul{
+    margin-left: 20%;
+    margin-right:20%;
+    text-align:left;
+    list-style-position: inside;
+    list-style-type: none;
+}
+.instructions{
+    text-align:left; 
+    margin-bottom: 10%;  
+}
+.prep-time{
+    font-style:italic;
+    font-weight:bold;
+    margin-bottom: 10%
+}
+.comment {
+    font-style:italic;
+    margin-bottom: 10%;
+}
+.comment ol{
+    text-align:left;
+    list-style-position: inside;
+}
